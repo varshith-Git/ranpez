@@ -21,7 +21,7 @@ Ranpez is designed to facilitate the conversion of data files between various fo
 - Python 3.x
 - PyArrow
 - Pandas
-- OpenPyXL (fro Excel file handling)
+- OpenPyXL (for Excel file handling)
 ## Installation
 
 Clone the project
