@@ -7,7 +7,7 @@ import pandas as pd
 import logging
 from utils.file_utils import create_output_dir
 from utils.logging_utils import setup_logging
-
+import os
 setup_logging()
 
 def csv_to_parquet(csv_file, parquet_file):
